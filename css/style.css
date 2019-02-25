@@ -258,6 +258,7 @@ h1 {
   max-width: 885px;
   max-height: 335px;
   display: block;
+  object-fit: cover;
 } 
 .slaider__desc {
   position: absolute;
