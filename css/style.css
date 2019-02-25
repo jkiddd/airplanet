@@ -641,9 +641,9 @@ margin-top: 25px;
   height: 160px;
 }
 .comments__avatar {
-  display: block;
-  width: 160px;
-  height: 160px;
+  display: block; 
+  width: 100%;
+  object-fit: cover;
 }
 .comments__avatar--nopic {
   width: 160px;
